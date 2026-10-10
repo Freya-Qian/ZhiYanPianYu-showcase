@@ -4,13 +4,11 @@
 
 **当前状态：可运行的演示项目。已验证前后端启动和真实单片段生成；六阶段完整成片流程尚未完成端到端验收。**
 
-[English](README_EN.md)
-
 ## 真实生成样片
 
 “雨夜城市街道，镜头缓慢向前”，2026-10-08 实际调用生成。
 
-[播放 / 下载 5 秒样片](docs/demo/rain-night-5s.mp4) · [验收记录](docs/demo/verification.json)
+[播放 / 下载 5 秒样片](docs/demo/rain-night-5s.mp4)
 
 ![视频采样帧](docs/demo/frames-check.png)
 
